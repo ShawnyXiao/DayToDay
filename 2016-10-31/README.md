@@ -1,6 +1,6 @@
 # Machine Learning
 
-Today, I finished my programming assignment of **logistic regression** from Cousera. Fantastic~
+Today, I finished my programming assignment of **Logistic Regression** from Cousera. Fantastic~
 
 ## What I learned
 
