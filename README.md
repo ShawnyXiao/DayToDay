@@ -1,5 +1,5 @@
 # DayToDay
-The inspiration of the name of this repository comes from a song, which has the same name. This repository just recodes what I learned everyday and pushes myself to learn something.
+This repository just recodes what I learned everyday and pushes myself to learn something. The inspiration of the name of this repository comes from a song, which has the same name.
 
 ## Casual topic
 - 2016-10-11 : My tutor leaves three papers for me, which has topics about **app recommendation** and **reliability of web service system**. These three guys maybe would consume some time. After reading, I would left these papers and its reading notes, which would display the key of papers and my ideas.
