@@ -5,8 +5,8 @@
 ### The exponential family
 
 We say that a class of distributions is in the **exponential family** if it can be written in the form:  
-![](pic/exponential_family.png)  
-Here, η is called the **natural parameter** (also called the **canonical parameter**) of the distribution; T(y) is the **sufficient statistic** (for the distributions we consider, it will often be the case that T(y) = y); and a(η) is the **log partition function**. The quantity ![](pic/normalization_constant.png) essentially plays the role of a normalization constant, that makes sure the distribution p(y; η) sums/integrates over y to 1.
+![](pic/form_of_exponential_family.png)  
+Here, η is called the **natural parameter** (also called the **canonical parameter**) of the distribution; T(y) is the **sufficient statistic** (for the distributions we consider, it will often be the case that T(y) = y); and a(η) is the **log partition function**. The quantity ![](pic/a_normalization_constant.png) essentially plays the role of a normalization constant, that makes sure the distribution p(y; η) sums/integrates over y to 1.
 
 A fixed choice of T, a and b defines a family (or set) of distributions that is parameterized by η; as we vary η, we then get different distributions within this family.
 
