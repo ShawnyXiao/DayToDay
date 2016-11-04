@@ -75,9 +75,9 @@ daysFromChineseNewYear(wrongPositon) = daysForWrongElement(wrongPositon);
 
 % 将结果写出到"timed_digitized_farming.csv"文件中
 fileID = fopen([outputPath, 'timed_digitized_farming.csv'], 'w');
-formatSpec = '%d,%d,%d,%d,%f,%d,%d\n';
+formatSpec = '%d,%d,%d,%d,%f,%s,%d,%d\n';
 for row = 1:length(province)
-    fprintf(fileID, formatSpec, province(row), market(row), type(row), name(row), averagePrice(row), daysFromNewYear(row), daysFromChineseNewYear(row));
+    fprintf(fileID, formatSpec, province(row), market(row), type(row), name(row), averagePrice(row), time{row}, daysFromNewYear(row), daysFromChineseNewYear(row));
 end
 fclose(fileID);
 
