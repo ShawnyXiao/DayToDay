@@ -17,18 +17,34 @@ end
 %% =========================== 读取数据 =========================== 
 
 % 从"farming.csv"文件中读取数据
-fileID = fopen('input/farming.csv');
-formatSpec = '%s %s %s %s %f %s';
-data = textscan(fileID, formatSpec, 'Delimiter', ',');
+fileID = fopen('input/farming.csv', 'r', 'n', 'UTF-8');
+formatSpec = '%s %s %s %s %*s %*s %*s %*s %*s %f %*s %*s %s';
+originData = textscan(fileID, formatSpec, 'Delimiter', ',');
 fclose(fileID);
 
+%% =========================== 处理数据 =========================== 
+
+% 格式化data
+data = cell(length(originData{1}), 6);
+for i = 1:6
+    if i == 5
+        data(:, i) = num2cell(originData{i});
+        continue;
+    end
+    data(:, i) = originData{i};
+end
+
+% 对data排序
+[~, dataIndex] = sortrows([data(:, 1), data(:, 2), data(:, 3), data(:, 4), num2cell(datenum(data(:, 6), 'yyyy-mm-dd'))], [1, 2, 3, 4, 5]);
+data = data(dataIndex, :);
+
 % 从data中提取数据
-province = data{1};
-market = data{2};
-type = data{3};
-name = data{4};
-averagePrice = data{5};
-time = data{6};
+province = data(:, 1);
+market = data(:, 2);
+type = data(:, 3);
+name = data(:, 4);
+averagePrice = data(:, 5);
+time = data(:, 6);
 
 %% ============================ 唯一化 ============================
 
@@ -65,7 +81,7 @@ name = mapMatrixOfName(indexOfUniqueName, 2);
 fileID = fopen([outputPath, 'digitized_farming.csv'], 'w');
 formatSpec = '%d,%d,%d,%d,%f,%s\n';
 for row = 1:length(province)
-    fprintf(fileID, formatSpec, province{row}, market{row}, type{row}, name{row}, averagePrice(row), time{row});
+    fprintf(fileID, formatSpec, province{row}, market{row}, type{row}, name{row}, averagePrice{row}, time{row});
 end
 fclose(fileID);
 
