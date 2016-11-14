@@ -9,6 +9,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2016-10-24 : A glance at **POJO** and **Spring** (a digression from the topic of machine learning, too).
 - 2016-10-27 : Some works about **data preprocessing** for a competition.
 - 2016-11-11 : Learning about **Lambda Expressions** and **Method References** of Java 8.
+- 2016-11-13 : Learning about **Stream API** of Java 8.
 
 ## Warning
 Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
