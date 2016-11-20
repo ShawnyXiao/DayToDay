@@ -16,6 +16,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2016-11-14 : About my programming assignment of **Neural Network Learning** in Cousera.
 - 2016-11-15 : About my programming assignment of **Regularized Linear Regression and Bias/Variance** in Cousera.
 - 2016-11-19 : Read some articles about the ways of **injecting dependencies**.
+- 2016-11-20 : About **Spring Boot**, sum up some of its best practices.
 
 ## Warning
 Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
