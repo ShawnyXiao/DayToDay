@@ -21,6 +21,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2016-12-05 : Learning about **HTTP**.
 - 2016-12-07 : About my programming assignment of **K-Means Clustering and PCA** in Cousera.
 - 2016-12-10 ；Some works about **data preprocessing** for the rematch.
+- 2016-12-11 : About **RESTful API**.
 
 ## Warning
 Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
