@@ -20,10 +20,11 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2016-12-02 : About my programming assignment of **Support Vector Machines** in Cousera.
 - 2016-12-05 : Learning about **HTTP**.
 - 2016-12-07 : About my programming assignment of **K-Means Clustering and PCA** in Cousera.
-- 2016-12-10 ；Some works about **data preprocessing** for the rematch.
+- 2016-12-10 : Some works about **data preprocessing** for the rematch.
 - 2016-12-11 : About **RESTful API**.
 - 2016-12-12 : About **Spring AOP**.
 - 2016-12-16 : About my programming assignment of **Anomaly Detection and Recommender Systems** in Cousera.
+- 2017-01-17 : About **Cross-site request forgery**
 
 ## Warning
 Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
