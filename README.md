@@ -24,9 +24,10 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2016-12-11 : About **RESTful API**.
 - 2016-12-12 : About **Spring AOP**.
 - 2016-12-16 : About my programming assignment of **Anomaly Detection and Recommender Systems** in Cousera.
-- 2017-01-17 : About **Cross-site request forgery**
-- 2017-01-18 : About **Session fixation**
+- 2017-01-17 : About **Cross-site request forgery**.
+- 2017-01-18 : About **Session fixation**.
 - 2017-01-20 : In order to help my friend for MCM, learn about **Grey Relational Analysis**.
 
 ## Warning
-Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
+- Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
+- If you want to subscribe to the new things for this repository, you could toggle the state of watch button.
