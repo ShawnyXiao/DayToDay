@@ -31,6 +31,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2017-01-23 : About **Sensitivity Analysis Method**.
 - 2017-02-16 : Read a paper about **blockchain**.
 - 2017-03-07 : About how to **build a private blockchain on Ethereum**.
+- 2017-03-08 : About how to **build and run a smart contract on Ethereum**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
