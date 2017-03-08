@@ -28,7 +28,7 @@ genesis.json:
 ### 3. 在 Windows 下启动 Geth 节点
 
 1. ```geth --datadir "%cd%\chain" init genesis.json```
-2. ```geth --identity "Inplus Ethereum" --rpc --rpccorsdomain "*" --datadir "%cd%\chain" --port "30303" --rpcapi "db,eth,net,web3" --networkid "95518" console```
+2. ```geth --identity "Inplus Ethereum" --rpc --rpccorsdomain "*" --rpcapi "db,eth,net,web3" --rpcport "8545" --datadir "%cd%\chain" --port "30303" --networkid "95518" console```
 
 ### 4. 在 Geth 节点下创建账号
 
