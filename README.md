@@ -33,6 +33,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2017-03-07 : About how to **build a private blockchain on Ethereum**.
 - 2017-03-08 : About how to **build and run a smart contract on Ethereum**.
 - 2017-03-11 : Translate part of documents of **Solidity**.
+- 2017-03-29 : Investigate about **Aspect mining**, **Copyright infringement investigation** and **Code compaction**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
