@@ -39,6 +39,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2017-04-02 : About **HTTPS**.
 - 2017-04-08 : About **Salt** in cryptography.
 - 2017-04-16 : About **Flexbox in CSS3**.
+- 2017-05-14 : About **Pandas**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
