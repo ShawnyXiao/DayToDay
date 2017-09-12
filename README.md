@@ -42,6 +42,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2017-05-14 : About **Pandas**.
 - 2017-05-19 : About **Getting Started Kaggle**.
 - 2017-08-08 : About the translation of **"Titanic Data Science Solutions"**.
+- 2017-09-12 : Read a paper about **log mining**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
