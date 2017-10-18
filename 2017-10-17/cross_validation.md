@@ -14,5 +14,5 @@
 
 ## 参考文献
 
-- ["机器学习中模型评估与选择中的几个小问题 &#8211; Blogs@WHU-CVRS"](http://cvrs.whu.edu.cn/blogs/?p=154)
-- ["How to choose a predictive model after k-fold cross-validation? - Cross Validated"](https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation)
+- [机器学习中模型评估与选择中的几个小问题 &#8211; Blogs@WHU-CVRS](http://cvrs.whu.edu.cn/blogs/?p=154)
+- [How to choose a predictive model after k-fold cross-validation? - Cross Validated](https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation)
