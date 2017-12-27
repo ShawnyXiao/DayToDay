@@ -46,6 +46,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2017-10-17 : Solve a qustion about **cross validation**.
 - 2017-10-18 : Learning about **parameter tuning in XGBoost**.
 - 2017-12-19 : About my presentation on course "System and Software Verification".
+- 2017-12-27 : About **CART pruning**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
