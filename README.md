@@ -50,6 +50,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2018-01-06 : Finish my course report of Data Mining in Action.
 - 2018-10-18 : Read the first paper of **attention**.
 - 2018-10-23 : Read the paper of **HAN (Hierarchical Attention Networks)**.
+- 2018-10-24 : Read the paper of **Feed Forward Attention**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
