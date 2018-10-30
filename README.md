@@ -52,6 +52,7 @@ This repository just recodes what I learned everyday and pushes myself to learn 
 - 2018-10-23 : Read the paper of **HAN (Hierarchical Attention Networks)**.
 - 2018-10-24 : Read the paper of **Feed Forward Attention**.
 - 2018-10-28 : Read the paper of **fastText**.
+- 2018-10-30 : Read the paper of **TextCNN**.
 
 ## Warning
 - Any article here **MUST NOT** be reproduced (**禁止**转载), since I don't own the authorization of some sentences or articles here.
